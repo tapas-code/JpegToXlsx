@@ -109,7 +109,7 @@ const FileUploader = () => {
             </>
           )}
         </div>
-        <div id="preview" className="grid grid-cols-3 grif-rows-5 mt-8">
+        <div id="preview" className="grid grid-cols-3 grid-rows-3 mt-8">
           {/* Image previews will be displayed here */}
         </div>
       </div>
